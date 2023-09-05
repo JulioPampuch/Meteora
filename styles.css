@@ -1,7 +1,21 @@
+html {
+  padding: 0;
+  margin: 0;
+}
+
 .text-small {
   font-size: 13px;
 }
 
 .divs-facilidades {
   width: 325px;
+}
+
+.main-text-color {
+  color: #b3ff00;
+}
+
+footer {
+  margin: 0;
+  padding: 0;
 }
