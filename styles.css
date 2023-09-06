@@ -2,10 +2,19 @@
   font-size: 13px;
 }
 
+.main-text-color {
+  color: #DAFF01;
+}
+
+.main-btn-color {
+  background-color: #9353FF;
+  color: #ffffff;
+}
+
 .divs-facilidades {
   width: 325px;
 }
 
-.main-text-color {
-  color: #DAFF01;
+.div-novidades {
+  width: 325px;
 }
