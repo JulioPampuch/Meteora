@@ -11,6 +11,18 @@
   color: #ffffff;
 }
 
+.caption-position {
+  top: 40%;
+  
+  @media(max-width: 767px)  {
+    top: 60%;
+
+    @media(max-width: 430px) {
+      top: 52.5%;
+    }
+  }
+}
+
 .divs-facilidades {
   width: 325px;
 }
