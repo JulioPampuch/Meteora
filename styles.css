@@ -23,6 +23,12 @@
   }
 }
 
+
+.btn-primary {
+  background-color: #9353FF!important;
+  border-color: #9353FF!important;
+}
+
 .divs-facilidades {
   width: 325px;
 }
